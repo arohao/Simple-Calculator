@@ -17,6 +17,6 @@ Python calculator made using the ***Tkinter*** library for a GUI.
 
 <img width="195" alt="image" src="https://github.com/arohao/Simple-Calculator/assets/119353048/c830df23-df21-402b-890a-fe62c9dd322a">`
 
-## Helpful sites:
+## Helpful sites
 [anzeljg.github.io](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/index.html) - Easy to follow documentation for ***TKinter***
 
