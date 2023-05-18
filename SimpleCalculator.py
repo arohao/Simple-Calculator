@@ -13,6 +13,7 @@ from tkinter import *
 
 # Window and number display
 tk = Tk()
+tk.title("Simple C")
 dis = Entry(tk, width=35, borderwidth=2, state='readonly', readonlybackground="white")
 dis.grid(row=0, column=0, columnspan=4)
 
